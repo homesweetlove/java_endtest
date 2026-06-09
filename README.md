@@ -1,4 +1,3 @@
-## Timetable Recommendation System ##
 > 자바 프로그래밍의 기말 과제 입니다.
 
 # 시간표 랜덤 추천기
