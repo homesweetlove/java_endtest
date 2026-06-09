@@ -1,3 +1,4 @@
+/* 전체적인 틀과 코드를 정리하는 과정에서 ai를 활용하였습니다 */
 import javax.swing.*;
 import javax.swing.event.*;
 import java.awt.*;
